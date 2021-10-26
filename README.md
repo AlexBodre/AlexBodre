@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexBodre
 - 👀 I’m interested in improve my skillset on MEAN stack. I actually work as a .Net Developer
-- 🌱 I’m currently learning Angular and Node
+- 🌱 I’m currently learning Angular.
 - 💞️ I’m looking to collaborate on open source projects that can help me to improve my code
 - 📫 How to reach me? You can send me an email to aboordonez@gmail.com
 
